@@ -1,0 +1,42 @@
+[
+	{ 
+		"field": "Data Scientist Resume", 
+		"url": "https://nandhuanil.github.io/Campus_connect/assets/Resumes/DataScientist.png",
+		"screen": "https://enhancv.com/resume-examples/data-scientist/"
+	},
+	{ 
+		"field": "Entry Level Software Engineer Resume",  
+		"url": "https://nandhuanil.github.io/Campus_connect/assets/Resumes/EntrySoftware.png",
+		"screen": "https://enhancv.com/resume-examples/entry-level-software-engineer/"
+	},
+	{ 
+		"field": "Entry Level Web Development Resume", 
+		"url": "https://nandhuanil.github.io/Campus_connect/assets/Resumes/EntryWeb.png", 
+		"screen": "https://enhancv.com/resume-examples/web-developer/"
+	},
+	{ 
+		"field": "Business Analyst Resume", 
+		"url": "https://nandhuanil.github.io/Campus_connect/assets/Resumes/BusinessAnalyst.png", 
+		"screen": "https://enhancv.com/resume-examples/business-analyst/"
+	},
+	{ 
+		"field": "Digital Marketing Resume", 
+		"url": "https://nandhuanil.github.io/Campus_connect/assets/Resumes/DigitalMarketing.png", 
+		"screen": "https://enhancv.com/resume-examples/digital-marketing/"
+	},
+	{ 
+		"field": "UX Designer Resume", 
+		"url": "https://nandhuanil.github.io/Campus_connect/assets/Resumes/UXDesigner.png", 
+		"screen": "https://enhancv.com/resume-examples/ux-designer/"
+	},
+	{ 
+		"field": "Front-End Developer Resume", 
+		"url": "https://nandhuanil.github.io/Campus_connect/assets/Resumes/Frontend.png", 
+		"screen": "https://enhancv.com/resume-examples/front-end-developer/"
+	},
+	{ 
+		"field": "Python Developer Resume", 
+		"url": "https://nandhuanil.github.io/Campus_connect/assets/Resumes/Py.png", 
+		"screen": "https://enhancv.com/resume-examples/python-developer/"
+	}
+]
