@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Google Cloud Digital Leader Training",
         "platform": "Google Cloud",
         "url": "https://cloud.google.com/learn/certification/cloud-digital-leader",
@@ -9,6 +10,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/google.png"
     },
     {
+        "id": 2,
         "name": "Microsoft Azure AI Fundamentals",
         "platform": "Microsoft Learn",
         "url": "https://learn.microsoft.com/en-us/training/modules/fundamentals-azure-ai-services/",
@@ -18,6 +20,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/microsoft.png"
     },
     {
+        "id": 3,
         "name": "AWS Skill Builder Learner Guide",
         "platform": "AWS Training and Certification",
         "url": "https://explore.skillbuilder.aws/learn/course/external/view/elearning/18443/aws-skill-builder-learner-guide",
@@ -27,6 +30,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/ams.png"
     },
     {
+        "id": 4,
         "name": "Coursera Meta Back-End Developer Professional Certificate",
         "platform": "Coursera",
         "url": "https://www.coursera.org/professional-certificates/meta-back-end-developer",
@@ -36,6 +40,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/coursera.png"
     },
     {
+        "id": 5,
         "name": "Google Cybersecurity Professional Certificate",
         "platform": "Coursera",
         "url": "https://www.coursera.org/professional-certificates/google-cybersecurity",
@@ -45,6 +50,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/coursera.png"
     },
     {
+        "id": 6,
         "name": "Microsoft Power Platform Fundamentals",
         "platform": "Microsoft Learn",
         "url": "https://learn.microsoft.com/en-us/training/paths/power-plat-fundamentals/",
@@ -54,6 +60,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/microsoft.png"
     },
     {
+        "id": 7,
         "name": "AWS Cloud Game Development",
         "platform": "AWS Training and Certification",
         "url": "https://explore.skillbuilder.aws/learn/public/learning_plan/view/1570/aws-for-games-cloud-game-development-knowledge-badge-readiness-path",
@@ -63,6 +70,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/ams.png"
     },
     {
+        "id": 8,
         "name": "Google Project Management Professional Certificate",
         "platform": "Coursera",
         "url": "https://www.coursera.org/professional-certificates/google-project-management",
@@ -72,6 +80,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/coursera.png"
     },
     {
+        "id": 9,
         "name": "Microsoft Azure Data Scientist Associate",
         "platform": "Microsoft Learn",
         "url": "https://learn.microsoft.com/en-us/certifications/azure-data-scientist/",
@@ -81,6 +90,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/microsoft.png"
     },
     {
+        "id": 10,
         "name": "Google Digital Marketing & E-commerce Professional Certificate",
         "platform": "Coursera",
         "url": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce",
@@ -90,6 +100,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/coursera.png"
     },
     {
+        "id": 11,
         "name": "AWS Certified Solutions Architect – Associate",
         "platform": "AWS Training and Certification",
         "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
@@ -99,6 +110,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/ams.png"
     },
     {
+        "id": 12,
         "name": "Google Digital Marketing & E-commerce Professional Certificate",
         "platform": "Coursera",
         "url": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce",
@@ -108,6 +120,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/coursera.png"
     },
     {
+        "id": 13,
         "name": "Microsoft Cybersecurity Architect Expert",
         "platform": "Microsoft Learn",
         "url": "https://learn.microsoft.com/en-us/certifications/cybersecurity-architect-expert/",
@@ -117,6 +130,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/microsoft.png"
     },
     {
+        "id": 14,
         "name": "AWS Certified Developer – Associate",
         "platform": "AWS Training and Certification",
         "url": "https://aws.amazon.com/certification/certified-developer-associate/",
@@ -126,6 +140,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/ams.png"
     },
     {
+        "id": 15,
         "name": "Microsoft Azure Administrator Associate",
         "platform": "Microsoft Learn",
         "url": "https://learn.microsoft.com/en-us/certifications/azure-administrator/",
@@ -135,6 +150,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/microsoft.png"
     },
     {
+        "id": 16,
         "name": "AWS Certified Cloud Practitioner",
         "platform": "AWS Training and Certification",
         "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
@@ -144,6 +160,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/ams.png"
     },
     {
+        "id": 17,
         "name": "Google Workspace Administrator Professional Certificate",
         "platform": "Coursera",
         "url": "https://www.coursera.org/professional-certificates/g-suite-administration",
@@ -153,6 +170,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/coursera.png"
     },
     {
+        "id": 18,
         "name": "Microsoft Certified: Power Platform Developer Associate",
         "platform": "Microsoft Learn",
         "url": "https://learn.microsoft.com/en-us/credentials/certifications/power-platform-developer-associate/?practice-assessment-type=certification",
@@ -162,6 +180,7 @@
         "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/microsoft.png"
     },
     {
+        "id": 19,
         "name": "AWS Certified Machine Learning – Specialty",
         "platform": "AWS Training and Certification",
         "url": "https://aws.amazon.com/certification/certified-machine-learning-specialty/",
