@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Google Cloud Digital Leader Training",
+        "platform": "Google Cloud",
+        "url": "https://cloud.google.com/learn/certification/cloud-digital-leader",
+        "domain": "Cloud Computing",
+        "level": "Beginner",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/google.png"
+    },
+    {
+        "name": "Microsoft Azure AI Fundamentals",
+        "platform": "Microsoft Learn",
+        "url": "https://learn.microsoft.com/en-us/training/modules/fundamentals-azure-ai-services/",
+        "domain": "Artificial Intelligence",
+        "level": "Beginner",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/microsoft.png"
+    },
+    {
+        "name": "AWS Skill Builder Learner Guide",
+        "platform": "AWS Training and Certification",
+        "url": "https://explore.skillbuilder.aws/learn/course/external/view/elearning/18443/aws-skill-builder-learner-guide",
+        "domain": "Business Applications",
+        "level": "Beginner",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/ams.png"
+    },
+    {
+        "name": "Coursera Meta Back-End Developer Professional Certificate",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/professional-certificates/meta-back-end-developer",
+        "domain": "Web Development",
+        "level": "Intermediate",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/coursera.png"
+    },
+    {
+        "name": "Google Cybersecurity Professional Certificate",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/professional-certificates/google-cybersecurity",
+        "domain": "Cybersecurity",
+        "level": "Beginner",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/coursera.png"
+    },
+    {
+        "name": "Microsoft Power Platform Fundamentals",
+        "platform": "Microsoft Learn",
+        "url": "https://learn.microsoft.com/en-us/training/paths/power-plat-fundamentals/",
+        "domain": "Business Applications",
+        "level": "Beginner",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/microsoft.png"
+    },
+    {
+        "name": "AWS Cloud Game Development",
+        "platform": "AWS Training and Certification",
+        "url": "https://explore.skillbuilder.aws/learn/public/learning_plan/view/1570/aws-for-games-cloud-game-development-knowledge-badge-readiness-path",
+        "domain": "Game Development",
+        "level": "Beginner",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/ams.png"
+    },
+    {
+        "name": "Google Project Management Professional Certificate",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/professional-certificates/google-project-management",
+        "domain": "Project Management",
+        "level": "Beginner",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/coursera.png"
+    },
+    {
+        "name": "Microsoft Azure Data Scientist Associate",
+        "platform": "Microsoft Learn",
+        "url": "https://learn.microsoft.com/en-us/certifications/azure-data-scientist/",
+        "domain": "Data Science",
+        "level": "Intermediate",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/microsoft.png"
+    },
+    {
+        "name": "Google Digital Marketing & E-commerce Professional Certificate",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce",
+        "domain": "Digital Marketing",
+        "level": "Beginner",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/coursera.png"
+    },
+    {
+        "name": "AWS Certified Solutions Architect – Associate",
+        "platform": "AWS Training and Certification",
+        "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+        "domain": "Cloud Architecture",
+        "level": "Intermediate",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/ams.png"
+    },
+    {
+        "name": "Google Digital Marketing & E-commerce Professional Certificate",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce",
+        "domain": "Digital Marketing",
+        "level": "Intermediate",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/coursera.png"
+    },
+    {
+        "name": "Microsoft Cybersecurity Architect Expert",
+        "platform": "Microsoft Learn",
+        "url": "https://learn.microsoft.com/en-us/certifications/cybersecurity-architect-expert/",
+        "domain": "Cybersecurity",
+        "level": "Advanced",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/microsoft.png"
+    },
+    {
+        "name": "AWS Certified Developer – Associate",
+        "platform": "AWS Training and Certification",
+        "url": "https://aws.amazon.com/certification/certified-developer-associate/",
+        "domain": "Cloud Development",
+        "level": "Intermediate",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/ams.png"
+    },
+    {
+        "name": "Microsoft Azure Administrator Associate",
+        "platform": "Microsoft Learn",
+        "url": "https://learn.microsoft.com/en-us/certifications/azure-administrator/",
+        "domain": "Cloud Computing",
+        "level": "Intermediate",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/microsoft.png"
+    },
+    {
+        "name": "AWS Certified Cloud Practitioner",
+        "platform": "AWS Training and Certification",
+        "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+        "domain": "Cloud Computing",
+        "level": "Beginner",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/ams.png"
+    },
+    {
+        "name": "Google Workspace Administrator Professional Certificate",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/professional-certificates/g-suite-administration",
+        "domain": "IT Support",
+        "level": "Beginner",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/coursera.png"
+    },
+    {
+        "name": "Microsoft Certified: Power Platform Developer Associate",
+        "platform": "Microsoft Learn",
+        "url": "https://learn.microsoft.com/en-us/credentials/certifications/power-platform-developer-associate/?practice-assessment-type=certification",
+        "domain": "Business Applications",
+        "level": "Intermediate",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/microsoft.png"
+    },
+    {
+        "name": "AWS Certified Machine Learning – Specialty",
+        "platform": "AWS Training and Certification",
+        "url": "https://aws.amazon.com/certification/certified-machine-learning-specialty/",
+        "domain": "Machine Learning",
+        "level": "Advanced",
+        "fees": "Free",
+        "image": "https://nandhuanil.github.io/Campus_connect/assets/Icon/ams.png"
+    }
+]
