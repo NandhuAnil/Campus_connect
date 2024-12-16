@@ -1,0 +1,163 @@
+[
+    {
+      "parkingSlotName": "Central Plaza Parking",
+      "amountPerHour": 30,
+      "city": "New York",
+      "availableSlots": 12,
+      "rating": 4.5,
+      "image": "https://example.com/images/central_plaza.jpg"
+    },
+    {
+      "parkingSlotName": "Downtown Garage",
+      "amountPerHour": 25,
+      "city": "Los Angeles",
+      "availableSlots": 20,
+      "rating": 4.7,
+      "image": "https://example.com/images/downtown_garage.jpg"
+    },
+    {
+      "parkingSlotName": "Greenway Parking",
+      "amountPerHour": 20,
+      "city": "Chicago",
+      "availableSlots": 15,
+      "rating": 4.2,
+      "image": "https://example.com/images/greenway_parking.jpg"
+    },
+    {
+      "parkingSlotName": "Seaside Parking",
+      "amountPerHour": 15,
+      "city": "Miami",
+      "availableSlots": 8,
+      "rating": 4.6,
+      "image": "https://example.com/images/seaside_parking.jpg"
+    },
+    {
+      "parkingSlotName": "Tech Park Garage",
+      "amountPerHour": 35,
+      "city": "San Francisco",
+      "availableSlots": 10,
+      "rating": 4.9,
+      "image": "https://example.com/images/tech_park_garage.jpg"
+    },
+    {
+      "parkingSlotName": "City Center Parking",
+      "amountPerHour": 40,
+      "city": "Boston",
+      "availableSlots": 5,
+      "rating": 4.3,
+      "image": "https://example.com/images/city_center_parking.jpg"
+    },
+    {
+      "parkingSlotName": "Riverside Parking Lot",
+      "amountPerHour": 22,
+      "city": "Houston",
+      "availableSlots": 25,
+      "rating": 4.8,
+      "image": "https://example.com/images/riverside_parking.jpg"
+    },
+    {
+      "parkingSlotName": "Uptown Parking",
+      "amountPerHour": 18,
+      "city": "Seattle",
+      "availableSlots": 18,
+      "rating": 4.1,
+      "image": "https://example.com/images/uptown_parking.jpg"
+    },
+    {
+      "parkingSlotName": "Skyline Parking",
+      "amountPerHour": 28,
+      "city": "Denver",
+      "availableSlots": 14,
+      "rating": 4.4,
+      "image": "https://example.com/images/skyline_parking.jpg"
+    },
+    {
+      "parkingSlotName": "Hilltop Garage",
+      "amountPerHour": 24,
+      "city": "Atlanta",
+      "availableSlots": 22,
+      "rating": 4.6,
+      "image": "https://example.com/images/hilltop_garage.jpg"
+    },
+    {
+      "parkingSlotName": "Midtown Parking",
+      "amountPerHour": 20,
+      "city": "Austin",
+      "availableSlots": 17,
+      "rating": 4.3,
+      "image": "https://example.com/images/midtown_parking.jpg"
+    },
+    {
+      "parkingSlotName": "Harbor Parking Lot",
+      "amountPerHour": 16,
+      "city": "San Diego",
+      "availableSlots": 30,
+      "rating": 4.7,
+      "image": "https://example.com/images/harbor_parking.jpg"
+    },
+    {
+      "parkingSlotName": "Metro Station Parking",
+      "amountPerHour": 12,
+      "city": "Dallas",
+      "availableSlots": 40,
+      "rating": 4.0,
+      "image": "https://example.com/images/metro_station_parking.jpg"
+    },
+    {
+      "parkingSlotName": "Suburban Parking Garage",
+      "amountPerHour": 19,
+      "city": "Phoenix",
+      "availableSlots": 28,
+      "rating": 4.5,
+      "image": "https://example.com/images/suburban_parking.jpg"
+    },
+    {
+      "parkingSlotName": "Industrial Park Parking",
+      "amountPerHour": 14,
+      "city": "Detroit",
+      "availableSlots": 35,
+      "rating": 4.2,
+      "image": "https://example.com/images/industrial_park_parking.jpg"
+    },
+    {
+      "parkingSlotName": "Sunset Boulevard Parking",
+      "amountPerHour": 26,
+      "city": "Las Vegas",
+      "availableSlots": 12,
+      "rating": 4.8,
+      "image": "https://example.com/images/sunset_boulevard_parking.jpg"
+    },
+    {
+      "parkingSlotName": "Bay Area Parking",
+      "amountPerHour": 33,
+      "city": "San Jose",
+      "availableSlots": 16,
+      "rating": 4.7,
+      "image": "https://example.com/images/bay_area_parking.jpg"
+    },
+    {
+      "parkingSlotName": "Garden Avenue Parking",
+      "amountPerHour": 11,
+      "city": "Orlando",
+      "availableSlots": 50,
+      "rating": 4.1,
+      "image": "https://example.com/images/garden_avenue_parking.jpg"
+    },
+    {
+      "parkingSlotName": "Downtown Street Parking",
+      "amountPerHour": 9,
+      "city": "Philadelphia",
+      "availableSlots": 60,
+      "rating": 4.3,
+      "image": "https://example.com/images/downtown_street_parking.jpg"
+    },
+    {
+      "parkingSlotName": "Capitol District Garage",
+      "amountPerHour": 27,
+      "city": "Washington, D.C.",
+      "availableSlots": 10,
+      "rating": 4.9,
+      "image": "https://example.com/images/capitol_district_garage.jpg"
+    }
+  ]
+  
