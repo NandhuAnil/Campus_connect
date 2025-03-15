@@ -15,7 +15,7 @@
       "Specialist": "Dermatologist",
       "availableSlots": 3,
       "rating": 4.5,
-      "image": "https://example.com/images/doctor2.jpg"
+      "image": "https://media.istockphoto.com/id/1373258655/photo/happy-nurse-at-hospital.jpg?s=612x612&w=0&k=20&c=mt8_LDMnWZHxAVm64SjmqBqbsTnrmDI3DlCq-jv3afA="
     },
     {
       "id": 3,
@@ -33,7 +33,7 @@
       "Specialist": "Neurologist",
       "availableSlots": 4,
       "rating": 4.6,
-      "image": "https://example.com/images/doctor4.jpg"
+      "image": "https://media.istockphoto.com/id/1373258655/photo/happy-nurse-at-hospital.jpg?s=612x612&w=0&k=20&c=mt8_LDMnWZHxAVm64SjmqBqbsTnrmDI3DlCq-jv3afA="
     },
     {
       "id": 5,
@@ -51,7 +51,7 @@
       "Specialist": "Oncologist",
       "availableSlots": 2,
       "rating": 4.3,
-      "image": "https://example.com/images/doctor6.jpg"
+      "image": "https://media.istockphoto.com/id/1373258655/photo/happy-nurse-at-hospital.jpg?s=612x612&w=0&k=20&c=mt8_LDMnWZHxAVm64SjmqBqbsTnrmDI3DlCq-jv3afA="
     },
     {
       "id": 7,
@@ -69,7 +69,7 @@
       "Specialist": "Endocrinologist",
       "availableSlots": 3,
       "rating": 4.6,
-      "image": "https://example.com/images/doctor8.jpg"
+      "image": "https://media.istockphoto.com/id/1373258655/photo/happy-nurse-at-hospital.jpg?s=612x612&w=0&k=20&c=mt8_LDMnWZHxAVm64SjmqBqbsTnrmDI3DlCq-jv3afA="
     },
     {
       "id": 9,
@@ -87,7 +87,7 @@
       "Specialist": "Psychiatrist",
       "availableSlots": 5,
       "rating": 4.7,
-      "image": "https://example.com/images/doctor10.jpg"
+      "image": "https://media.istockphoto.com/id/1373258655/photo/happy-nurse-at-hospital.jpg?s=612x612&w=0&k=20&c=mt8_LDMnWZHxAVm64SjmqBqbsTnrmDI3DlCq-jv3afA="
     },
     {
       "id": 11,
@@ -105,7 +105,7 @@
       "Specialist": "ENT Specialist",
       "availableSlots": 4,
       "rating": 4.3,
-      "image": "https://example.com/images/doctor12.jpg"
+      "image": "https://media.istockphoto.com/id/1373258655/photo/happy-nurse-at-hospital.jpg?s=612x612&w=0&k=20&c=mt8_LDMnWZHxAVm64SjmqBqbsTnrmDI3DlCq-jv3afA="
     },
     {
       "id": 13,
@@ -123,7 +123,7 @@
       "Specialist": "Ophthalmologist",
       "availableSlots": 3,
       "rating": 4.4,
-      "image": "https://example.com/images/doctor14.jpg"
+      "image": "https://media.istockphoto.com/id/1373258655/photo/happy-nurse-at-hospital.jpg?s=612x612&w=0&k=20&c=mt8_LDMnWZHxAVm64SjmqBqbsTnrmDI3DlCq-jv3afA="
     },
     {
       "id": 15,
@@ -141,7 +141,7 @@
       "Specialist": "Hematologist",
       "availableSlots": 4,
       "rating": 4.7,
-      "image": "https://example.com/images/doctor16.jpg"
+      "image": "https://media.istockphoto.com/id/1373258655/photo/happy-nurse-at-hospital.jpg?s=612x612&w=0&k=20&c=mt8_LDMnWZHxAVm64SjmqBqbsTnrmDI3DlCq-jv3afA="
     },
     {
       "id": 17,
@@ -150,7 +150,7 @@
       "Specialist": "Rheumatologist",
       "availableSlots": 3,
       "rating": 4.6,
-      "image": "https://example.com/images/doctor17.jpg"
+      "image": "https://media.istockphoto.com/id/1373258655/photo/happy-nurse-at-hospital.jpg?s=612x612&w=0&k=20&c=mt8_LDMnWZHxAVm64SjmqBqbsTnrmDI3DlCq-jv3afA="
     },
     {
       "id": 18,
@@ -168,7 +168,7 @@
       "Specialist": "Pathologist",
       "availableSlots": 5,
       "rating": 4.8,
-      "image": "https://example.com/images/doctor19.jpg"
+      "image": "https://media.istockphoto.com/id/1373258655/photo/happy-nurse-at-hospital.jpg?s=612x612&w=0&k=20&c=mt8_LDMnWZHxAVm64SjmqBqbsTnrmDI3DlCq-jv3afA="
     },
     {
       "id": 20,
