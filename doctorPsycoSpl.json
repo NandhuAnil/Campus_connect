@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "doctorName": "Dr. Rajesh Nair",
+      "contactNumber": 9876543221,
+      "Specialist": "Psychiatrist",
+      "availableSlots": 4,
+      "rating": 4.6,
+      "image": "https://example.com/images/doctor1.jpg"
+    },
+    {
+      "id": 2,
+      "doctorName": "Dr. Priya Sharma",
+      "contactNumber": 9876543222,
+      "Specialist": "Psychiatrist",
+      "availableSlots": 3,
+      "rating": 4.7,
+      "image": "https://example.com/images/doctor2.jpg"
+    },
+    {
+      "id": 3,
+      "doctorName": "Dr. Arjun Verma",
+      "contactNumber": 9876543223,
+      "Specialist": "Psychiatrist",
+      "availableSlots": 5,
+      "rating": 4.5,
+      "image": "https://example.com/images/doctor3.jpg"
+    },
+    {
+      "id": 4,
+      "doctorName": "Dr. Kavita Reddy",
+      "contactNumber": 9876543224,
+      "Specialist": "Psychiatrist",
+      "availableSlots": 2,
+      "rating": 4.8,
+      "image": "https://example.com/images/doctor4.jpg"
+    },
+    {
+      "id": 5,
+      "doctorName": "Dr. Sanjay Iyer",
+      "contactNumber": 9876543225,
+      "Specialist": "Psychiatrist",
+      "availableSlots": 6,
+      "rating": 4.4,
+      "image": "https://example.com/images/doctor5.jpg"
+    },
+    {
+      "id": 6,
+      "doctorName": "Dr. Nisha Agarwal",
+      "contactNumber": 9876543226,
+      "Specialist": "Psychiatrist",
+      "availableSlots": 3,
+      "rating": 4.6,
+      "image": "https://example.com/images/doctor6.jpg"
+    },
+    {
+      "id": 7,
+      "doctorName": "Dr. Vikram Menon",
+      "contactNumber": 9876543227,
+      "Specialist": "Psychiatrist",
+      "availableSlots": 4,
+      "rating": 4.7,
+      "image": "https://example.com/images/doctor7.jpg"
+    },
+    {
+      "id": 8,
+      "doctorName": "Dr. Deepa Nair",
+      "contactNumber": 9876543228,
+      "Specialist": "Psychiatrist",
+      "availableSlots": 5,
+      "rating": 4.5,
+      "image": "https://example.com/images/doctor8.jpg"
+    },
+    {
+      "id": 9,
+      "doctorName": "Dr. Rohan Pillai",
+      "contactNumber": 9876543229,
+      "Specialist": "Psychiatrist",
+      "availableSlots": 2,
+      "rating": 4.8,
+      "image": "https://example.com/images/doctor9.jpg"
+    },
+    {
+      "id": 10,
+      "doctorName": "Dr. Sneha Kapoor",
+      "contactNumber": 9876543230,
+      "Specialist": "Psychiatrist",
+      "availableSlots": 3,
+      "rating": 4.6,
+      "image": "https://example.com/images/doctor10.jpg"
+    }
+  ]
+  

@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "doctorName": "Dr. Aakash Kumar",
+      "contactNumber": 9876543210,
+      "Specialist": "Cardiologist",
+      "availableSlots": 5,
+      "rating": 4.8,
+      "image": "https://example.com/images/doctor1.jpg"
+    },
+    {
+      "id": 2,
+      "doctorName": "Dr. Priya Sharma",
+      "contactNumber": 9876543211,
+      "Specialist": "Dermatologist",
+      "availableSlots": 3,
+      "rating": 4.5,
+      "image": "https://example.com/images/doctor2.jpg"
+    },
+    {
+      "id": 3,
+      "doctorName": "Dr. Rahul Verma",
+      "contactNumber": 9876543212,
+      "Specialist": "Pediatrician",
+      "availableSlots": 7,
+      "rating": 4.9,
+      "image": "https://example.com/images/doctor3.jpg"
+    },
+    {
+      "id": 4,
+      "doctorName": "Dr. Anjali Reddy",
+      "contactNumber": 9876543213,
+      "Specialist": "Neurologist",
+      "availableSlots": 4,
+      "rating": 4.6,
+      "image": "https://example.com/images/doctor4.jpg"
+    },
+    {
+      "id": 5,
+      "doctorName": "Dr. Karthik Iyer",
+      "contactNumber": 9876543214,
+      "Specialist": "Orthopedic",
+      "availableSlots": 6,
+      "rating": 4.7,
+      "image": "https://example.com/images/doctor5.jpg"
+    },
+    {
+      "id": 6,
+      "doctorName": "Dr. Meera Nair",
+      "contactNumber": 9876543215,
+      "Specialist": "Oncologist",
+      "availableSlots": 2,
+      "rating": 4.3,
+      "image": "https://example.com/images/doctor6.jpg"
+    },
+    {
+      "id": 7,
+      "doctorName": "Dr. Vishal Raj",
+      "contactNumber": 9876543216,
+      "Specialist": "General Physician",
+      "availableSlots": 8,
+      "rating": 4.4,
+      "image": "https://example.com/images/doctor7.jpg"
+    },
+    {
+      "id": 8,
+      "doctorName": "Dr. Sunita Rao",
+      "contactNumber": 9876543217,
+      "Specialist": "Endocrinologist",
+      "availableSlots": 3,
+      "rating": 4.6,
+      "image": "https://example.com/images/doctor8.jpg"
+    },
+    {
+      "id": 9,
+      "doctorName": "Dr. Arjun Patil",
+      "contactNumber": 9876543218,
+      "Specialist": "Gastroenterologist",
+      "availableSlots": 4,
+      "rating": 4.8,
+      "image": "https://example.com/images/doctor9.jpg"
+    },
+    {
+      "id": 10,
+      "doctorName": "Dr. Neha Khanna",
+      "contactNumber": 9876543219,
+      "Specialist": "Psychiatrist",
+      "availableSlots": 5,
+      "rating": 4.7,
+      "image": "https://example.com/images/doctor10.jpg"
+    },
+    {
+      "id": 11,
+      "doctorName": "Dr. Rohan Das",
+      "contactNumber": 9876543220,
+      "Specialist": "Pulmonologist",
+      "availableSlots": 2,
+      "rating": 4.5,
+      "image": "https://example.com/images/doctor11.jpg"
+    },
+    {
+      "id": 12,
+      "doctorName": "Dr. Sneha Agarwal",
+      "contactNumber": 9876543221,
+      "Specialist": "ENT Specialist",
+      "availableSlots": 4,
+      "rating": 4.3,
+      "image": "https://example.com/images/doctor12.jpg"
+    },
+    {
+      "id": 13,
+      "doctorName": "Dr. Ankit Sharma",
+      "contactNumber": 9876543222,
+      "Specialist": "Urologist",
+      "availableSlots": 5,
+      "rating": 4.6,
+      "image": "https://example.com/images/doctor13.jpg"
+    },
+    {
+      "id": 14,
+      "doctorName": "Dr. Divya Nair",
+      "contactNumber": 9876543223,
+      "Specialist": "Ophthalmologist",
+      "availableSlots": 3,
+      "rating": 4.4,
+      "image": "https://example.com/images/doctor14.jpg"
+    },
+    {
+      "id": 15,
+      "doctorName": "Dr. Vikram Menon",
+      "contactNumber": 9876543224,
+      "Specialist": "Gynecologist",
+      "availableSlots": 6,
+      "rating": 4.5,
+      "image": "https://example.com/images/doctor15.jpg"
+    },
+    {
+      "id": 16,
+      "doctorName": "Dr. Ananya Ghosh",
+      "contactNumber": 9876543225,
+      "Specialist": "Hematologist",
+      "availableSlots": 4,
+      "rating": 4.7,
+      "image": "https://example.com/images/doctor16.jpg"
+    },
+    {
+      "id": 17,
+      "doctorName": "Dr. Pooja Mehta",
+      "contactNumber": 9876543226,
+      "Specialist": "Rheumatologist",
+      "availableSlots": 3,
+      "rating": 4.6,
+      "image": "https://example.com/images/doctor17.jpg"
+    },
+    {
+      "id": 18,
+      "doctorName": "Dr. Mohan Pillai",
+      "contactNumber": 9876543227,
+      "Specialist": "Nephrologist",
+      "availableSlots": 2,
+      "rating": 4.5,
+      "image": "https://example.com/images/doctor18.jpg"
+    },
+    {
+      "id": 19,
+      "doctorName": "Dr. Anuradha Sharma",
+      "contactNumber": 9876543228,
+      "Specialist": "Pathologist",
+      "availableSlots": 5,
+      "rating": 4.8,
+      "image": "https://example.com/images/doctor19.jpg"
+    },
+    {
+      "id": 20,
+      "doctorName": "Dr. Kiran Patel",
+      "contactNumber": 9876543229,
+      "Specialist": "Radiologist",
+      "availableSlots": 3,
+      "rating": 4.7,
+      "image": "https://example.com/images/doctor20.jpg"
+    }
+  ]
+  

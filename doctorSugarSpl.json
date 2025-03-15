@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "doctorName": "Dr. Rajesh Kumar",
+      "contactNumber": 9876543211,
+      "Specialist": "Sugar Specialist",
+      "availableSlots": 4,
+      "rating": 4.6,
+      "image": "https://example.com/images/doctor1.jpg"
+    },
+    {
+      "id": 2,
+      "doctorName": "Dr. Priya Menon",
+      "contactNumber": 9876543212,
+      "Specialist": "Sugar Specialist",
+      "availableSlots": 3,
+      "rating": 4.7,
+      "image": "https://example.com/images/doctor2.jpg"
+    },
+    {
+      "id": 3,
+      "doctorName": "Dr. Arjun Reddy",
+      "contactNumber": 9876543213,
+      "Specialist": "Sugar Specialist",
+      "availableSlots": 5,
+      "rating": 4.5,
+      "image": "https://example.com/images/doctor3.jpg"
+    },
+    {
+      "id": 4,
+      "doctorName": "Dr. Kavita Sharma",
+      "contactNumber": 9876543214,
+      "Specialist": "Sugar Specialist",
+      "availableSlots": 2,
+      "rating": 4.8,
+      "image": "https://example.com/images/doctor4.jpg"
+    },
+    {
+      "id": 5,
+      "doctorName": "Dr. Sanjay Iyer",
+      "contactNumber": 9876543215,
+      "Specialist": "Sugar Specialist",
+      "availableSlots": 6,
+      "rating": 4.4,
+      "image": "https://example.com/images/doctor5.jpg"
+    },
+    {
+      "id": 6,
+      "doctorName": "Dr. Nisha Agarwal",
+      "contactNumber": 9876543216,
+      "Specialist": "Sugar Specialist",
+      "availableSlots": 3,
+      "rating": 4.6,
+      "image": "https://example.com/images/doctor6.jpg"
+    },
+    {
+      "id": 7,
+      "doctorName": "Dr. Vikram Mehta",
+      "contactNumber": 9876543217,
+      "Specialist": "Sugar Specialist",
+      "availableSlots": 4,
+      "rating": 4.7,
+      "image": "https://example.com/images/doctor7.jpg"
+    },
+    {
+      "id": 8,
+      "doctorName": "Dr. Deepa Nair",
+      "contactNumber": 9876543218,
+      "Specialist": "Sugar Specialist",
+      "availableSlots": 5,
+      "rating": 4.5,
+      "image": "https://example.com/images/doctor8.jpg"
+    },
+    {
+      "id": 9,
+      "doctorName": "Dr. Rohan Pillai",
+      "contactNumber": 9876543219,
+      "Specialist": "Sugar Specialist",
+      "availableSlots": 2,
+      "rating": 4.8,
+      "image": "https://example.com/images/doctor9.jpg"
+    },
+    {
+      "id": 10,
+      "doctorName": "Dr. Sneha Kapoor",
+      "contactNumber": 9876543220,
+      "Specialist": "Sugar Specialist",
+      "availableSlots": 3,
+      "rating": 4.6,
+      "image": "https://example.com/images/doctor10.jpg"
+    }
+  ]
+  

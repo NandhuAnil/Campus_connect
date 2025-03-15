@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "doctorName": "Dr. Ramesh Kumar",
+      "contactNumber": 9876543201,
+      "Specialist": "BP Specialist",
+      "availableSlots": 5,
+      "rating": 4.6,
+      "image": "https://example.com/images/doctor1.jpg"
+    },
+    {
+      "id": 2,
+      "doctorName": "Dr. Priya Singh",
+      "contactNumber": 9876543202,
+      "Specialist": "BP Specialist",
+      "availableSlots": 3,
+      "rating": 4.7,
+      "image": "https://example.com/images/doctor2.jpg"
+    },
+    {
+      "id": 3,
+      "doctorName": "Dr. Anil Mehta",
+      "contactNumber": 9876543203,
+      "Specialist": "BP Specialist",
+      "availableSlots": 4,
+      "rating": 4.5,
+      "image": "https://example.com/images/doctor3.jpg"
+    },
+    {
+      "id": 4,
+      "doctorName": "Dr. Kavita Rao",
+      "contactNumber": 9876543204,
+      "Specialist": "BP Specialist",
+      "availableSlots": 2,
+      "rating": 4.8,
+      "image": "https://example.com/images/doctor4.jpg"
+    },
+    {
+      "id": 5,
+      "doctorName": "Dr. Sanjay Iyer",
+      "contactNumber": 9876543205,
+      "Specialist": "BP Specialist",
+      "availableSlots": 6,
+      "rating": 4.4,
+      "image": "https://example.com/images/doctor5.jpg"
+    },
+    {
+      "id": 6,
+      "doctorName": "Dr. Nisha Sharma",
+      "contactNumber": 9876543206,
+      "Specialist": "BP Specialist",
+      "availableSlots": 3,
+      "rating": 4.6,
+      "image": "https://example.com/images/doctor6.jpg"
+    },
+    {
+      "id": 7,
+      "doctorName": "Dr. Rajesh Verma",
+      "contactNumber": 9876543207,
+      "Specialist": "BP Specialist",
+      "availableSlots": 4,
+      "rating": 4.7,
+      "image": "https://example.com/images/doctor7.jpg"
+    },
+    {
+      "id": 8,
+      "doctorName": "Dr. Deepa Menon",
+      "contactNumber": 9876543208,
+      "Specialist": "BP Specialist",
+      "availableSlots": 5,
+      "rating": 4.5,
+      "image": "https://example.com/images/doctor8.jpg"
+    },
+    {
+      "id": 9,
+      "doctorName": "Dr. Ajay Reddy",
+      "contactNumber": 9876543209,
+      "Specialist": "BP Specialist",
+      "availableSlots": 2,
+      "rating": 4.8,
+      "image": "https://example.com/images/doctor9.jpg"
+    },
+    {
+      "id": 10,
+      "doctorName": "Dr. Sneha Kapoor",
+      "contactNumber": 9876543210,
+      "Specialist": "BP Specialist",
+      "availableSlots": 3,
+      "rating": 4.6,
+      "image": "https://example.com/images/doctor10.jpg"
+    }
+  ]
+  
